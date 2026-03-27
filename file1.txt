@@ -1,0 +1,4 @@
+
+git add file0.txt
+``
+
